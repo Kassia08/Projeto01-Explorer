@@ -1,9 +1,9 @@
-<h1 align="center"> Flutuar.com </h1>
+<h1 align="center"> Móveis Customizados </h1>
 
 <p align="center">
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no Stage 02. <br/>
 
-<img alt="layout 01" src="/imagens/layout01.png" width="100%">
+<img alt="projeto01" src="projeto01.jpg" width="100%">
 
 ## 🚀 Tecnologias
 
@@ -16,12 +16,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Flutuar é uma empresa onde você encontra pacotes de viagens nacionais e internacionais que
-incluem:passagens aéreas, hotéis, café da manhã, e até seguro viagem.
+Empresa de móveis customizados
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK] (https://www.figma.com/file/KmVzXRjD4zZ9ItYfeTLTCd/Projeto01-Extra-(Copy)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma] (https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK] (https://www.figma.com/file/IOB0yeaZ9oiyv6kv56VoVx/Explorer---Projeto-01-(Copy)?node-id=1%3A2&mode=dev). É necessário ter conta no [Figma] (https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
